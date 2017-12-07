@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLib>
+  <DBGroup name="Main" />
+  <DB name="技术资料管理.mdb" Group="Main" ver="18.7.0.0" Remind="False" Days="7">
+    <Syntax>C#</Syntax>
+    <Created>2017/12/7 17:46:37</Created>
+    <LastOpenTime>2017/12/7 17:55:37</LastOpenTime>
+    <LastBackup>0001/1/1</LastBackup>
+    <Path>J:\Program Files\note\db</Path>
+    <Desc />
+  </DB>
+</CodeLib>

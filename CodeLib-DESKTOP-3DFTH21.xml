@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeLib>
+  <DBGroup name="Main" />
+  <DB name="开发笔记.mdb" Group="Main" ver="18.7.0.0" Remind="False" Days="7">
+    <Syntax>C#</Syntax>
+    <Created>2016/5/4 14:11:06</Created>
+    <LastOpenTime>2016/5/16 11:32:47</LastOpenTime>
+    <LastBackup>0001/1/1</LastBackup>
+    <Path>H:\百度云同步盘\note\db</Path>
+    <Desc />
+  </DB>
+  <DB name="技术资料管理.mdb" ver="18.7.0.0" Group="Main" Remind="False" Days="7">
+    <Syntax>C#</Syntax>
+    <Path>C:\OneDrive\note\db</Path>
+    <LastOpenTime>2016/6/3 10:39:18</LastOpenTime>
+    <Created>2016/6/3 10:26:51</Created>
+    <Desc />
+    <LastBackup>0001/1/1</LastBackup>
+  </DB>
+</CodeLib>
